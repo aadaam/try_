@@ -38,4 +38,6 @@ Example:
         });
     }
 
+The try_ library is licensed under Simplified BSD, which means basically that if you use it you have to acknowledge that it originally comes from me, but otherwise you do whatever you want. For the license text see: http://www.opensource.org/licenses/bsd-license.php
+
 *Give it a try_...*
