@@ -38,7 +38,7 @@
    };
    return on_result;
   };
-})(window);
+})(window ? window : exports);
 /*
 try_(obj,async_fn)(function(result){
 }).catch_(function(err){
