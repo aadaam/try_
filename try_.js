@@ -1,3 +1,7 @@
+/* try_ - a natural control flow library for JavaScript
+ * Copyright by Adam Nemeth github.com/aadaam
+ * Licensed under Simplified BSD 
+ */
 (function(scope){
   scope.get_return_cb = function(args){
     return function(result){ 
